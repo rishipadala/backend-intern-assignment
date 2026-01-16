@@ -1,13 +1,13 @@
 # Benchmark Results
 
-## 1. Machine Specifications\
-* **Device:** Lenovo Yoga Slim 6i\
-* **CPU:** 12th Gen Intel(R) Core(TM) i5-1240P (1.70 GHz)\
+## 1. Machine Specifications
+* **Device:** Lenovo Yoga Slim 6i
+* **CPU:** 12th Gen Intel(R) Core(TM) i5-1240P (1.70 GHz)
 * **RAM:** 16.0 GB\
 * **OS:** Windows 11
 
 ## 2. Benchmark Command
-To run the ingestion benchmark, the following command was used:\
+To run the ingestion benchmark, the following command was used:
 ```bash\
 ./mvnw -Dtest=BenchmarkTest test
 ```
